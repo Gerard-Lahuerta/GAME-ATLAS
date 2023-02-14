@@ -1,0 +1,16 @@
+El joc va per torns. El minotaure es mou de casella en casella, gastant un torn per moviment. El jugador
+pot gastar el torn encenent una vela, agafant un arma, movent-se, disparant, ...
+
+per sortir del laberint:
+  hem de matar el minotaure amb una escopeta que ens trobem pel laberint. Aquesta té tres bales,
+  i si gastes les tres aleshores estàs mort directament.
+
+trampes (afegir al final):
+ terra amb punxes que surten en torns parells o imparells
+ terra que cau quan passes un cop per sobre (queda un forat)
+
+
+
+si hem de matar al minotaure per sortir un cop ha mort només queda caminar fins
+  la sortida, sense cap mena de perill, posem alguna trampa o algua cosa per l'estil
+  un cop mori el minotaure? o que estigui allà sempre la trampa i es pugui esquivar d'alguna manera
